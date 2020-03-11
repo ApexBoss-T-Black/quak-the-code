@@ -1,0 +1,21 @@
+
+#quakShopQueryTool {
+    min-width: 30rem;
+    overflow: visible;
+}
+#result-table-element{
+    height: 500px;
+}
+.coral-FixedColumn-column{
+	width: auto; 
+}
+.result-extra-padding{
+	padding: 50px;
+}
+.hide{
+	display: none;
+    visibility: hidden;
+}
+.invalid-form-field{
+    border: red 2px solid;
+}
